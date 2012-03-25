@@ -1,0 +1,8 @@
+---------- Instructions ----------
+
+1. Unzip all these files into a folder on your hard drive.
+2. Download and install R from http://www.r-project.org/
+3. Run R and open paretonbd.r and Commands.r
+4. In Commands.r, change the folder variable to the correct path on your computer
+5. You can run sections of code in R by highlighting the code and pressing CTRL+R
+
